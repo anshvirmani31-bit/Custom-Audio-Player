@@ -36,6 +36,19 @@ This is a small audio file player with it's own standalone speaker based of an E
 ### Cherry MX Button
 <img width="384" height="269" alt="Screenshot 2026-11-08 at 8 47 12 PM" src="https://github.com/user-attachments/assets/eac8bdd7-8502-42fb-9eaf-6b3abed0e0d3" />
 
+## PCB
+
+### Full Pcb
+<img width="782" height="679" alt="Screenshot 2026-11-08 at 10 13 12 PM" src="https://github.com/user-attachments/assets/7923b23c-8288-4234-a2b4-8d1f5e97fb5a" />
+
+### 3D View
+
+#### Front
+<img width="583" height="539" alt="Screenshot 2026-11-08 at 10 32 10 PM" src="https://github.com/user-attachments/assets/bae3fdbe-ef16-41c9-96e7-f74ff2eb10de" />
+
+#### Back
+<img width="609" height="589" alt="Screenshot 2026-11-08 at 10 32 38 PM" src="https://github.com/user-attachments/assets/a5875da5-8c2d-41c0-b94c-7406eb604b22" />
+
 # BOM
 
 |Item                       |Qty|Supplier  |Cost/item|Total Cost|link                                                 |
