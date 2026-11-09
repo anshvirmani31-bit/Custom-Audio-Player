@@ -9,6 +9,7 @@ This is a small audio file player with it's own standalone speaker based of an E
 
 ## Schematic
 
+### Full Schematic
 <img width="808" height="655" alt="Screenshot 2026-11-08 at 8 13 44 PM" src="https://github.com/user-attachments/assets/e8b8921d-10ef-41d7-af78-a9019495a7c3" />
 
 ### Oled Screen
