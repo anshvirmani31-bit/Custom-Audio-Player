@@ -35,3 +35,18 @@ This is a small audio file player with it's own standalone speaker based of an E
 
 ### Cherry MX Button
 <img width="384" height="269" alt="Screenshot 2026-11-08 at 8 47 12 PM" src="https://github.com/user-attachments/assets/eac8bdd7-8502-42fb-9eaf-6b3abed0e0d3" />
+
+# BOM
+
+|Item                       |Qty|Supplier  |Cost/item|Total Cost|link                                                 |
+|---------------------------|---|----------|---------|----------|-----------------------------------------------------|
+|ESP32-S3-WROOM1            |1  |AliExpress|$1.09    |$1.09     |https://www.aliexpress.com/item/1005010196291979.html|
+|AP2112K-3.3TRG1            |1  |AliExpress|$1.89    |$1.89     |https://www.aliexpress.com/item/1005009023441155.html|
+|MAX98357AETE+T             |1  |AliExpress|$6.44    |$6.44     |https://www.aliexpress.com/item/1005013004267095.html|
+|USB Connector Type C Female|1  |AliExpress|$4.81    |$4.81     |https://www.aliexpress.com/item/1005013012638787.html|
+|Rotary Encoder             |1  |AliExpress|$1.91    |$1.91     |https://www.aliexpress.com/item/1005007644083514.html|
+|4 ohm Speaker              |1  |AliExpress|$2.28    |$2.28     |https://www.aliexpress.com/item/1005008626624201.html|
+|Resistors                  |1  |AliExpress|$4.75    |$4.75     |https://www.aliexpress.com/item/1005012948787921.html|
+|PCB                        |1  |JLCPCB    |$4.00    |$4.00     |https://jlcpcb.com                                   |
+|OLED                       |1  |AliExpress|$2.55    |$2.55     |https://www.aliexpress.com/item/1005005692457058.html|
+|Estimated total shipping   |1  |          |         |$1.50     |                                                     |
